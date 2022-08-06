@@ -20,3 +20,4 @@ Q&amp;A Bareng Programmer Zaman Now, Orang Ganteng dan Intelek
 - Portofolio untuk DevOps https://www.youtube.com/watch?v=-6RVtfzOc1A
 - Gaji Programmer di Indonesia vs Luar Negri https://www.youtube.com/watch?v=F1LJGaAHE7g
 - Relasi Table One to One Kok Pisah Table https://www.youtube.com/watch?v=6xU8K_w7gN4
+- Menghitung Resource Server untuk Aplikasi https://youtu.be/g0DXyEAqOko
