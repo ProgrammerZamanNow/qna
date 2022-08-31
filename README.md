@@ -21,3 +21,8 @@ Q&amp;A Bareng Programmer Zaman Now, Orang Ganteng dan Intelek
 - Gaji Programmer di Indonesia vs Luar Negri https://www.youtube.com/watch?v=F1LJGaAHE7g
 - Relasi Table One to One Kok Pisah Table https://www.youtube.com/watch?v=6xU8K_w7gN4
 - Menghitung Resource Server untuk Aplikasi https://youtu.be/g0DXyEAqOko
+- Trunk Based Development vs Git Flow https://youtu.be/jydxcnSOIG4
+- Junior Programmer vs Senior Programmer https://youtu.be/PRK7RBFJ-p8
+- Tips Menjadi Speaker di Acara Teknologi https://youtu.be/Tl2RA9Mxi7Q
+- Backend Programmer Wajib Mengerti Low Level Programming? https://youtu.be/oJzHEAS_uPg
+- Cara Upload File ke Server dengan Load Balancer https://youtu.be/89Ep6BUwbaI
