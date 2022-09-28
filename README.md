@@ -26,3 +26,9 @@ Q&amp;A Bareng Programmer Zaman Now, Orang Ganteng dan Intelek
 - Tips Menjadi Speaker di Acara Teknologi https://youtu.be/Tl2RA9Mxi7Q
 - Backend Programmer Wajib Mengerti Low Level Programming? https://youtu.be/oJzHEAS_uPg
 - Cara Upload File ke Server dengan Load Balancer https://youtu.be/89Ep6BUwbaI
+- Cara Kerja Aplikasi Realtime https://youtu.be/w_rOM943vCw
+- Apakah Linked List Gak Penting? https://youtu.be/CWcp-89gp6c
+- Bikin Aplikasi Backend Dulu atau Frontend Dulu? https://youtu.be/wtYSFNJE3h8
+- Validasi di Frontend atau Backend? https://youtu.be/sAiU2fc2qWY
+- Struktur Folder Aplikasi https://youtu.be/tu6IKx_VXLA
+- Buat Apa Dev Dependency? https://youtu.be/HvKeqSaC9GU
